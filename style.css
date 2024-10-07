@@ -1,0 +1,52 @@
+html {
+    background-color: #000;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+.phase {
+    background-color: #202020;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+.section {
+    padding: 2%;
+}
+
+.maimai-green, .genre-variety {
+    background-color: green;
+    color: white;
+}
+.genre-vocaloid {
+    background-color: rgb(0, 255, 225);
+    color: black;
+}
+.maimai-blue, .genre-sega {
+    background-color: blue;
+    color: white;
+}
+.maimai-pink {
+    background-color: pink;
+    color: black;
+}
+.maimai-murasaki, .genre-toho {
+    background-color: purple;
+    color: white;
+}
+.maimai-milk {
+    background-color: beige;
+    color: black;
+}
+.maimai-orange, .genre-original {
+    background-color: orange;
+    color: black;
+}
